@@ -1,5 +1,8 @@
 _repo: Crump-folk-going-home_74603
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74603-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Holme, Constance
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40683
     wikipedia: https://en.wikipedia.org/wiki/Constance_Holme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74603#Crump-folk-going-home
 gutenberg_issued: '2024-10-19'
 gutenberg_type: Text
 identifiers:
